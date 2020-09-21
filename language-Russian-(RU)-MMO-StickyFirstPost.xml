@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="," thousands_separator=" " label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" user_selectable="1" addon_id="MMO/StickyFirstPost" base_version_id="2000270" export_version="2">
+  <phrase title="msfp_stick_first_post" addon_id="MMO/StickyFirstPost" version_id="2000070" version_string="2.0.0"><![CDATA[Stick First Post]]></phrase>
+  <phrase title="msfp_stick_first_post_all_posts_stickied_in_forum" addon_id="MMO/StickyFirstPost" version_id="2000170" version_string="2.0.1"><![CDATA[All threads have their first post stickied in this forum.]]></phrase>
+  <phrase title="msfp_sticky_first_post_always_sticky_first_post" addon_id="MMO/StickyFirstPost" version_id="2000170" version_string="2.0.1"><![CDATA[Always Sticky First Post]]></phrase>
+  <phrase title="msfp_sticky_first_post_explain" addon_id="MMO/StickyFirstPost" version_id="2000170" version_string="2.0.1"><![CDATA[If this is enabled, the first post of this thread will appear at the top of all pages instead of just the first page.]]></phrase>
+  <phrase title="msfp_sticky_first_post_if_enabled_first_post_stickied_all_pages" addon_id="MMO/StickyFirstPost" version_id="2000170" version_string="2.0.1"><![CDATA[If this option is enabled, then all threads in the forum will have their first post stickied, regardless of user choice or permission.]]></phrase>
+  <phrase title="permission.forum_stickFirstPost" addon_id="MMO/StickyFirstPost" version_id="2000070" version_string="2.0.0"><![CDATA[Sticky first post]]></phrase>
+  <phrase title="permission.forum_stickFirstPostAny" addon_id="MMO/StickyFirstPost" version_id="2000070" version_string="2.0.0"><![CDATA[Stick Any First Post]]></phrase>
+</language>
