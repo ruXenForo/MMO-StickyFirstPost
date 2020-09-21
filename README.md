@@ -13,4 +13,4 @@
 
 ## Ссылки
 * [XenForo](https://xenforo.com/)
-* [SV-LazyImageLoader](https://mmo-zone.info/store/)
+* [MMO StickyFirstPost](https://mmo-zone.info/store/)
